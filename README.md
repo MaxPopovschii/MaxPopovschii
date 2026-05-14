@@ -5,17 +5,6 @@
 I’m passionate about building robust infrastructure, automating everything, and exploring the intersection between security and system design.
 From low-level Linux tweaks to scalable cloud deployments — I love understanding how things work under the hood.
 
-## 
-
-```
-  __  __            ____                                 _     _ _ 
- |  \/  | __ ___  _|  _ \ ___  _ __   _____   _____  ___| |__ (_|_)
- | |\/| |/ _` \ \/ / |_) / _ \| '_ \ / _ \ \ / / __|/ __| '_ \| | |
- | |  | | (_| |>  <|  __/ (_) | |_) | (_) \ V /\__ \ (__| | | | | |
- |_|  |_|\__,_/_/\_\_|   \___/| .__/ \___/ \_/ |___/\___|_| |_|_|_|
-                              |_|                                  
-```
-
 ## About Me
 
 🧠 Exploring DevOps, Cloud Infrastructure, and Cybersecurity

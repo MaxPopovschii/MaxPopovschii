@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Max%20Popovschii&fontSize=75&fontColor=fff&animation=twinkling&fontAlignY=38&desc=DevOps%20%E2%80%A2%20Developer%20%E2%80%A2%20Security%20Researcher&descAlignY=60&descSize=22" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=750&height=90&lines=CS+Engineering+%40+Politecnico+di+Milano+%F0%9F%8F%9B%EF%B8%8F;Building+infra+by+day.+Hacking+labs+by+night.+%F0%9F%94%90;Linux+lover+%7C+Cloud+native+%7C+Always+curious.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Automation+Engineering+%40+Politecnico+di+Milano+%F0%9F%8F%9B%EF%B8%8F;Building+infra+by+day.+Hacking+labs+by+night.+%F0%9F%94%90;Linux+lover+%7C+Cloud+native+%7C+Always+curious.)](https://git.io/typing-svg)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=MaxPopovschii&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views"/>
